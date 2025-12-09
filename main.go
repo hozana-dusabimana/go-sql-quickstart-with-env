@@ -12,8 +12,9 @@ import (
 	"fmt"
 	"log"
 	"time"
-	"github.com/spf13/viper"
+
 	"github.com/jackc/pgx/v5"
+	"github.com/spf13/viper"
 	//use godotenv to load .env file
 	// "github.com/joho/godotenv"
 	// "os"
